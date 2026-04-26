@@ -1,4 +1,4 @@
-# Customer_Behaviour_Analysis
+# Customer Behaviour Analysis
 
 An end-to-end Data Analytics project focused on analyzing customer shopping patterns and transforming raw transactional data into meaningful business insights using **Python, PostgreSQL, and Power BI**.
 
@@ -42,10 +42,10 @@ The goal is to convert raw customer transaction records into a clear, interactiv
 * **Python**
 * **Pandas**
 * **NumPy**
-* **Matplotlib / Seaborn**
+* **Matplotlib and Seaborn**
 * **PostgreSQL**
 * **Power BI**
-* **Jupyter Notebook / VS Code**
+* **VS Code**
 
 ---
 
